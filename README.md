@@ -1,5 +1,4 @@
-# hola-mundo
-Mi primer repositorio de prueba 
+# Hola-mundo
+Mi primer repositorio 
 
-Autor: Aurora Alvarez Samano
-27/sep/2022
+Autor: Aurora Alvarez Samano    27/sep/2022
